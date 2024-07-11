@@ -4,7 +4,6 @@ import myImg from "../../Assets/me.PNG";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -19,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am a graduate of the Generation Junior Software Developer Bootcamp looking for a software developer position
+            I am a graduate of the Generation Junior Software Developer Bootcamp looking for a software developer position.
               <br />
               <br />I am fluent in classics like
               <i>
