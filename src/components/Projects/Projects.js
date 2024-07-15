@@ -22,8 +22,8 @@ function Projects() {
               isBlog={false}
               title="PotionCafe"
               description="Project presents a fully functional e-commerce platform tailored for a coffee shop, aimed at enhancing customer experience and optimizing online sales. With a user-friendly interface, it allows coffee enthusiasts to explore diverse products, securely place orders, Developed using modern web technologies "
-              ghLink="https://github.com"
-              demoLink="test"
+              ghLink="https://github.com/kanyawadee24/group1_frontend"
+              demoLink="https://group1-frontend.vercel.app/"
             />
           </Col>
 
